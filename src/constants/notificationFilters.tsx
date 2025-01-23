@@ -1,0 +1,1 @@
+export const notificationFilters = ['All', 'Polls', 'Subscriptions', 'Promotions', 'Following'];

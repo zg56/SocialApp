@@ -1,0 +1,1 @@
+export const filters = ['All', 'Workout', 'Mindfulness', 'Nutrition', 'Recovery', 'Mentoring', 'Stretching', 'Warmup', 'Warmdown', 'Race', 'General'];
